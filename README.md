@@ -21,3 +21,7 @@ public class AccessModifierExample {
         student.getDetails();
     }
 }
+Output 
+Name: John Doe
+Age: 21
+Grade: A
